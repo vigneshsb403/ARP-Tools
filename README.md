@@ -21,6 +21,10 @@ to comile the arpspoofdetector.c file use the following command
 ```
 gcc arpspoofdetector.c -lpcap -o arpspoofdetector
 ```
+to comile the sniffer.c file use the following command
+```
+gcc sniffer.c -lpcap -o sniffer
+```
 ## ⚠️Note run the programs with sudo privilages.
 
 Made with ❤️‍🔥 by [vigneshsb](https://vigneshsb.fun).
