@@ -7,6 +7,10 @@ or use the following code to do the same.
 ```
 sudo apt-get install libpcap-dev
 ```
+if you are on a mac
+```
+brew install libpcap
+```
 
 ## Compiling
 compile the lookup.c file with the following command.
